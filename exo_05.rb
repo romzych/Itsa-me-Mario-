@@ -20,3 +20,5 @@ puts "C'est drôle ça, faisons-en plus :"
 puts "Est-ce que 5 est plus grand que -2 ? #{5 > -2}" #renvoie un boolean true car 5 > -2
 puts "Est-ce que 5 est supérieur ou égal à -2 ? #{5 >= -2}" #renvoie un boolean true car 5 >= -2
 puts "Est-ce que 5 est inférieur ou égal à -2 ? #{5 <= -2}" #renvoie un boolean false car 5 <= -s2
+
+# "#{}" sert a utiliser des operateur dans une string.
