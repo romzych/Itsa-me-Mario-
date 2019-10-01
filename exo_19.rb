@@ -9,7 +9,5 @@ while nbr < 50
     else
         nbr = nbr + 1
     end
-
-
 end
 puts tab
